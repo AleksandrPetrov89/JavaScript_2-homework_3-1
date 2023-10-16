@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_3-1/issues"
   },
-  "homepage": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_3-1#readme"
+  "homepage": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_3-1#readme",
+  "devDependencies": {
+    "@aleksandrpetrov89/ajs": "^1.0.0"
+  }
 }
